@@ -1,0 +1,19 @@
+{
+  "name": "uptask",
+  "version": "1.0.0",
+  "description": "Administrador de tareas y proyectos",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "EedgarHM",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
